@@ -1,0 +1,27 @@
+*{
+    text-align:center;
+    background-color:rgb(238, 229, 203);;
+}
+#score{
+    margin-top:20px;
+    color:rgb(54, 40, 2);
+    font-size: 25px;
+}
+.heading{
+    color:rgb(66, 49, 2);
+    font-size: 35px;
+}
+.color{
+    margin-top:20px;
+    color:rgb(46, 34, 3);
+    font-size: 25px;
+}
+.foo{
+    border:2px solid rgb(70, 53, 6);
+    width:50px;
+    height:50px;
+    font-size:20px;
+    text-align:center;
+    display: inline-block;
+    font-weight: 900;
+}
